@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 ###
 # From scratch, write a ruby object that swaps case.
 # Lowercase should be turned into uppercase and vice-versa. “Hello” -> “hELLO.”
